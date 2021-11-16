@@ -1,6 +1,9 @@
 # EzProxies
 Tired of searching for good proxies for hours? Just get an IpVanish account and get thousands of good proxies in few seconds!
 
+# Showcase
+Watch the showcase here: https://streamable.com/ng4uoi
+
 # Pre-Compiled Version (.exe)
 Download pre-compiled version here: https://gofile.io/d/Bd5lrs
 

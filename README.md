@@ -8,7 +8,7 @@ Watch the showcase here: https://streamable.com/ng4uoi
 Watch this video: https://streamable.com/ph739r
 
 # Pre-Compiled Version (.exe)
-Download pre-compiled version here: https://gofile.io/d/Bd5lrs
+Download pre-compiled version here: https://gofile.io/d/efjXPg
 
 # Installation (If not using pre-compiled version)
 Follow instructions: https://github.com/TurfuGoldy/run-a-python-script

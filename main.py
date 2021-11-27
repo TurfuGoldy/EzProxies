@@ -68,7 +68,7 @@ def proxie_scrap():
             'Renewal Plan:</b></span>\n<span class="profile_label">(.+?)<', accountpage
         )[0]
 
-        #Useless
+        # Useless
         # paymentmethod = re.findall(
         #     'Payment Method:</b></span>\n<span class="profile_label"><i>(.+?)<',
         #     accountpage,
@@ -76,7 +76,7 @@ def proxie_scrap():
 
         logo()
         print(
-            f"{Fore.LIGHTCYAN_EX}{email}\n    Account Status - {status}\n    Current Plan - {plan}\n    Renewal Date - {renewaldate}\n    Renewal Type - {renewaltype}\n    Renewal Plan - {renewalplan}" #\n    Payment Method - {paymentmethod}
+            f"{Fore.LIGHTCYAN_EX}{email}\n    Account Status - {status}\n    Current Plan - {plan}\n    Renewal Date - {renewaldate}\n    Renewal Type - {renewaltype}\n    Renewal Plan - {renewalplan}"  # \n    Payment Method - {paymentmethod}
         )
         print(f"{Fore.LIGHTYELLOW_EX}\n\nScraping Proxies...")
 
@@ -116,7 +116,7 @@ def proxie_scrap():
 
         logo()
         print(
-            f"{Fore.LIGHTCYAN_EX}{email}\n    Account Status - {status}\n    Current Plan - {plan}\n    Renewal Date - {renewaldate}\n    Renewal Type - {renewaltype}\n    Renewal Plan - {renewalplan}" #\n    Payment Method - {paymentmethod}
+            f"{Fore.LIGHTCYAN_EX}{email}\n    Account Status - {status}\n    Current Plan - {plan}\n    Renewal Date - {renewaldate}\n    Renewal Type - {renewaltype}\n    Renewal Plan - {renewalplan}"  # \n    Payment Method - {paymentmethod}
         )
         print(
             f"{Fore.LIGHTGREEN_EX}\n\n{len(proxies)} proxies have been scraped!\nSaved in scraped/{date}/"
